@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.diy.web" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>DIY 웨딩</name>
+    <name>캐치타임</name>
     <description>
-        Do It Yourself 웨딩
+       About Catch Time
     </description>
     <author email="info@catchtime.co.kr" href="https://catchtime.co.kr">
-        DIY Wedding Team
+        CatchTime Team
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />

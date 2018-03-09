@@ -6,16 +6,16 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>DIY 웨딩</name>
+    <name>캐치타임</name>
     <description>
-        Do It Yourself 웨딩
+        About Catch Time
     </description>
-    <author email="info@diywedding.co.kr" href="https://diywedding.co.kr">
-        DIY Wedding Team
+    <author email="info@catchtime.co.kr" href="https://catchtime.co.kr">
+        CatchTime Team
     </author>
     <content src="index.html" />
     <splash src="www/res/screen/android/splash.png" />
-    <access origin="https://diywedding.co.kr" subdomains="true" />
+    <access origin="https://catchtime.co.kr" subdomains="true" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <preference name="DisallowOverscroll" value="true" />
