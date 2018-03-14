@@ -14,7 +14,7 @@
         CatchTime Team
     </author>
     <content src="index.html" />
-    <splash src="www/res/screen/android/splash.png" />
+    <splash src="www/res/screen/android/screen.png" />
     <access origin="https://catchtime.co.kr" subdomains="true" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
