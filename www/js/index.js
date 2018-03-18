@@ -35,7 +35,7 @@ var app = {
     onDeviceReady: function() {
 	setTimeout(function(){ 
          	window.open('https://catchtime.co.kr','_self','location=no');
-    	}, 2000);  
+    	}, 1);  
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
